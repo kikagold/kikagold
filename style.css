@@ -1,0 +1,16 @@
+h1 {
+    background-color: aquamarine;
+    font-size: 30px;
+    
+}
+
+body {
+    background-color: brown;
+}
+
+img {
+    height: 500px; 
+    width: 500px; 
+    background-position: center;
+
+}
